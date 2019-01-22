@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1083532851729",
+    "firebase_url": "https://vedioplayer-7cbe4.firebaseio.com",
+    "project_id": "vedioplayer-7cbe4",
+    "storage_bucket": "vedioplayer-7cbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083532851729:android:466099d6f56d334d",
+        "android_client_info": {
+          "package_name": "application.pooja.com.vedioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083532851729-9lrsff590jsje27qjm6j8i9f4c9iv8oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "application.pooja.com.vedioplayer",
+            "certificate_hash": "cb5b131771bd0a8853555a516b6c412bf9cfc4ba"
+          }
+        },
+        {
+          "client_id": "1083532851729-f0tvmvhol1hqsmoqn8eeiau760co7fih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0u_qUeakljej7nTeO4yPGa8rUeoTlbIk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083532851729-f0tvmvhol1hqsmoqn8eeiau760co7fih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
